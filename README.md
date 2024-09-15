@@ -1,4 +1,5 @@
-# rust_learn
+# Rust programming language learing material
+
 Path to learn rust
 
 * [Read Rust official book and write comment inside](https://doc.rust-lang.org/book/)
