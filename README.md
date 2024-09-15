@@ -5,3 +5,6 @@ Path to learn rust
 * [Write and publish a book with rust tools](https://rust-lang.github.io/mdBook/)
 * [Write a blog publish on gitpages](https://github.com/rust-lang/blog.rust-lang.org)
 * https://os.phil-opp.com/
+* https://google.github.io/comprehensive-rust/
+* https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w
+* 
